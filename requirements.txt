@@ -1,0 +1,3 @@
+aio5
+requests==2.27.1
+SpeechRecognition==2.1.3
